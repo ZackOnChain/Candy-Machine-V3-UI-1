@@ -1,33 +1,19 @@
 [
   {
-    "title": "Wave 1",
-    "description": "Only whitelisted",
+    "title": "WL",
+    "description": "Only users who are whitelisted can mint.",
     "groups": [
       {
-        "label": "waoed"
+        "label": "WL"
       }
     ]
   },
   {
-    "title": "Wave 2",
-    "description": "Pay to mint",
+    "title": "Public",
+    "description": "Everyone can mint, no limit.",
     "groups": [
       {
-        "label": "tknPmt",
-        "description": "You can only mint buy paying the specific token"
-      },
-      {
-        "label": "nftPmt",
-        "description": "You can only mint buy paying the specific nft"
-      }
-    ]
-  },
-  {
-    "title": "Wave 3",
-    "description": "Available for all",
-    "groups": [
-      {
-        "label": "public"
+        "label": "Public"
       }
     ]
   }
